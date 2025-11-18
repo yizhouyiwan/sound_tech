@@ -1,0 +1,4 @@
+deepseek
+fastapi
+uvicorn
+python-docx
